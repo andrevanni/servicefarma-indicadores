@@ -1,0 +1,23 @@
+{
+  "coletado_em": "2026-09-22",
+  "periodo": {
+    "inicio": "2026-08-23",
+    "fim": "2026-09-19",
+    "dias": 28
+  },
+  "site": "sc-domain:servicefarma.far.br",
+  "search_console": {
+    "resumo": {
+      "cliques": 0,
+      "impressoes": 0,
+      "ctr": 0,
+      "posicao_media": 0
+    },
+    "consultas": [],
+    "paginas": [],
+    "dispositivos": []
+  },
+  "ga4": {
+    "configurado": false
+  }
+}
