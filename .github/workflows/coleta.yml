@@ -1,0 +1,44 @@
+name: Coleta diária de indicadores
+
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  id-token: write
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Autenticar no Google sem chave
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: projects/352367922162/locations/global/workloadIdentityPools/github/providers/github
+          service_account: coleta-indicadores@servicefarma-indicadores.iam.gserviceaccount.com
+
+      - name: Coletar
+        env:
+          GSC_SITE: sc-domain:servicefarma.far.br
+          GA4_PROPERTY_ID: ${{ vars.GA4_PROPERTY_ID }}
+        run: python coletar.py
+
+      - name: Publicar resultado
+        run: |
+          git config user.name "coleta-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Indicadores $(date +%F)"
+          git push
