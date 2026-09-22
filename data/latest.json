@@ -18,6 +18,13 @@
     "dispositivos": []
   },
   "ga4": {
-    "configurado": false
+    "configurado": true,
+    "resumo": {
+      "sessoes": 0,
+      "usuarios": 0,
+      "taxa_engajamento": 0.0,
+      "conversoes": 0
+    },
+    "origem": []
   }
 }
