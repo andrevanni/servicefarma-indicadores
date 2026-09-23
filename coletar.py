@@ -188,7 +188,8 @@ def coletar_ga4(creds, inicio, fim):
             "conversoes": int(float(l.metric_values[1].value)),
         }
         for l in por(["sessionCampaignName"], 15)
-        if l.dimension_values[0].value not in ("(not set)", "(organic)", "(direct)")
+        if l.dimension_values[0].value
+        not in ("(not set)", "(organic)", "(direct)", "(referral)")
     ]
 
     return {
