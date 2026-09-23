@@ -5,6 +5,11 @@
     "fim": "2026-09-20",
     "dias": 28
   },
+  "periodo_ga4": {
+    "inicio": "2026-08-26",
+    "fim": "2026-09-22",
+    "dias": 28
+  },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
@@ -20,11 +25,32 @@
   "ga4": {
     "configurado": true,
     "resumo": {
-      "sessoes": 0,
-      "usuarios": 0,
-      "taxa_engajamento": 0.0,
-      "conversoes": 0
+      "sessoes": 1,
+      "usuarios": 1,
+      "taxa_engajamento": 100.0,
+      "conversoes": 1
     },
-    "origem": []
+    "origem": [
+      {
+        "canal": "Organic Social",
+        "sessoes": 1,
+        "conversoes": 1
+      }
+    ],
+    "fontes": [
+      {
+        "fonte": "facebook.com",
+        "midia": "referral",
+        "sessoes": 1,
+        "conversoes": 1
+      }
+    ],
+    "campanhas": [
+      {
+        "campanha": "(referral)",
+        "sessoes": 1,
+        "conversoes": 1
+      }
+    ]
   }
 }
