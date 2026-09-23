@@ -24,7 +24,10 @@ SITE = os.environ.get("GSC_SITE", "sc-domain:servicefarma.far.br")
 GA4_PROPERTY = os.environ.get("GA4_PROPERTY_ID", "").strip()
 JANELA_DIAS = int(os.environ.get("JANELA_DIAS", "28"))
 # O Search Console fecha os dados com ~2 dias de atraso.
-ATRASO_DIAS = 3
+ATRASO_GSC = 3
+# O GA4 fecha no mesmo dia; usar o atraso do Search Console aqui esconderia
+# tres dias de dados sem necessidade.
+ATRASO_GA4 = 1
 
 RAIZ = Path(__file__).resolve().parent
 DIR_DADOS = RAIZ / "data"
@@ -48,8 +51,9 @@ def credenciais():
     return creds
 
 
-def periodo():
-    fim = date.today() - timedelta(days=ATRASO_DIAS)
+def periodo(atraso):
+    """Janela de JANELA_DIAS terminando `atraso` dias atras."""
+    fim = date.today() - timedelta(days=atraso)
     inicio = fim - timedelta(days=JANELA_DIAS - 1)
     return inicio.isoformat(), fim.isoformat()
 
@@ -144,37 +148,72 @@ def coletar_ga4(creds, inicio, fim):
         "conversoes": int(float(linha[3].value)) if linha else 0,
     }
 
-    canais = cliente.run_report(
-        RunReportRequest(
-            property=f"properties/{GA4_PROPERTY}",
-            date_ranges=intervalo,
-            dimensions=[Dimension(name="sessionDefaultChannelGroup")],
-            metrics=[Metric(name="sessions"), Metric(name="conversions")],
-            limit=10,
+    def por(dimensoes, limite=12):
+        r = cliente.run_report(
+            RunReportRequest(
+                property=f"properties/{GA4_PROPERTY}",
+                date_ranges=intervalo,
+                dimensions=[Dimension(name=d) for d in dimensoes],
+                metrics=[Metric(name="sessions"), Metric(name="conversions")],
+                limit=limite,
+            )
         )
-    )
+        return r.rows
+
     origem = [
         {
             "canal": l.dimension_values[0].value,
             "sessoes": int(float(l.metric_values[0].value)),
             "conversoes": int(float(l.metric_values[1].value)),
         }
-        for l in canais.rows
+        for l in por(["sessionDefaultChannelGroup"], 10)
     ]
 
-    return {"configurado": True, "resumo": resumo, "origem": origem}
+    # De onde vem cada visita: separa LinkedIn de Google, organico de pago.
+    fontes = [
+        {
+            "fonte": l.dimension_values[0].value,
+            "midia": l.dimension_values[1].value,
+            "sessoes": int(float(l.metric_values[0].value)),
+            "conversoes": int(float(l.metric_values[1].value)),
+        }
+        for l in por(["sessionSource", "sessionMedium"], 15)
+    ]
+
+    # Le os UTMs: mede post a post, campanha a campanha.
+    campanhas = [
+        {
+            "campanha": l.dimension_values[0].value,
+            "sessoes": int(float(l.metric_values[0].value)),
+            "conversoes": int(float(l.metric_values[1].value)),
+        }
+        for l in por(["sessionCampaignName"], 15)
+        if l.dimension_values[0].value not in ("(not set)", "(organic)", "(direct)")
+    ]
+
+    return {
+        "configurado": True,
+        "resumo": resumo,
+        "origem": origem,
+        "fontes": fontes,
+        "campanhas": campanhas,
+    }
 
 
 def main():
     creds = credenciais()
-    inicio, fim = periodo()
+    gsc_inicio, gsc_fim = periodo(ATRASO_GSC)
+    ga4_inicio, ga4_fim = periodo(ATRASO_GA4)
 
     dados = {
         "coletado_em": date.today().isoformat(),
-        "periodo": {"inicio": inicio, "fim": fim, "dias": JANELA_DIAS},
+        # "periodo" continua sendo o do Search Console, para nao quebrar
+        # quem ja le esse campo; o do GA4 vai em "periodo_ga4".
+        "periodo": {"inicio": gsc_inicio, "fim": gsc_fim, "dias": JANELA_DIAS},
+        "periodo_ga4": {"inicio": ga4_inicio, "fim": ga4_fim, "dias": JANELA_DIAS},
         "site": SITE,
-        "search_console": coletar_search_console(creds, inicio, fim),
-        "ga4": coletar_ga4(creds, inicio, fim),
+        "search_console": coletar_search_console(creds, gsc_inicio, gsc_fim),
+        "ga4": coletar_ga4(creds, ga4_inicio, ga4_fim),
     }
 
     DIR_HIST.mkdir(parents=True, exist_ok=True)
@@ -187,9 +226,19 @@ def main():
 
     r = dados["search_console"]["resumo"]
     print(
-        f"OK {inicio} a {fim}: {r['cliques']} cliques, "
+        f"Search Console {gsc_inicio} a {gsc_fim}: {r['cliques']} cliques, "
         f"{r['impressoes']} impressões, posição média {r['posicao_media']}"
     )
+    g = dados["ga4"]
+    if g.get("configurado"):
+        print(
+            f"GA4 {ga4_inicio} a {ga4_fim}: {g['resumo']['sessoes']} sessões, "
+            f"{g['resumo']['conversoes']} conversões, "
+            f"{len(g.get('fontes', []))} fontes, "
+            f"{len(g.get('campanhas', []))} campanhas"
+        )
+    else:
+        print("GA4 não configurado (defina GA4_PROPERTY_ID)")
 
 
 if __name__ == "__main__":
