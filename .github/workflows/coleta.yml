@@ -2,7 +2,12 @@ name: Coleta diária de indicadores
 
 on:
   schedule:
-    - cron: "0 9 * * *"
+    # 07:23 UTC = 04:23 em Sao Paulo.
+    # Duas escolhas de proposito: minuto quebrado e horario fora do pico.
+    # O GitHub enfileira agendamentos compartilhados e atrasa os que caem no
+    # minuto 0; com "0 9" as execucoes reais vinham entre 13h30 e 14h30 UTC,
+    # depois da tarefa que copia os numeros para o painel.
+    - cron: "23 7 * * *"
   workflow_dispatch:
 
 permissions:
