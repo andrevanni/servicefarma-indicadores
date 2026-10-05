@@ -229,9 +229,9 @@
   "ga4": {
     "configurado": true,
     "resumo": {
-      "sessoes": 54,
+      "sessoes": 55,
       "usuarios": 37,
-      "taxa_engajamento": 90.7,
+      "taxa_engajamento": 89.1,
       "conversoes": 27
     },
     "origem": [
@@ -281,10 +281,10 @@
         "conversoes": 4
       },
       {
-        "fonte": "(not set)",
-        "midia": "(not set)",
-        "sessoes": 1,
-        "conversoes": 0
+        "fonte": "teste",
+        "midia": "validacao",
+        "sessoes": 2,
+        "conversoes": 1
       },
       {
         "fonte": "facebook.com",
@@ -297,12 +297,6 @@
         "midia": "referral",
         "sessoes": 1,
         "conversoes": 0
-      },
-      {
-        "fonte": "teste",
-        "midia": "validacao",
-        "sessoes": 1,
-        "conversoes": 1
       }
     ],
     "campanhas": []
