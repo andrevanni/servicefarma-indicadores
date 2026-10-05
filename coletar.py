@@ -59,7 +59,18 @@ def periodo(atraso):
 
 
 def consultar_gsc(servico, inicio, fim, dimensoes, limite):
-    corpo = {"startDate": inicio, "endDate": fim, "rowLimit": limite}
+    # dataState "all" inclui os dias recentes que o Google ainda nao fechou.
+    # Sem isso a API devolve apenas dados finalizados, que ficam dias atras da
+    # realidade: em 04/10/2026 o coletor marcava 85 impressoes enquanto a
+    # interface do Search Console mostrava 130 para a mesma janela de 28 dias,
+    # e o painel repetiu os mesmos numeros por tres coletas seguidas.
+    # Em troca, os numeros dos ultimos dias oscilam ate o Google fecha-los.
+    corpo = {
+        "startDate": inicio,
+        "endDate": fim,
+        "rowLimit": limite,
+        "dataState": "all",
+    }
     if dimensoes:
         corpo["dimensions"] = dimensoes
     resposta = servico.searchanalytics().query(siteUrl=SITE, body=corpo).execute()
