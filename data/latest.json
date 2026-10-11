@@ -1,22 +1,22 @@
 {
-  "coletado_em": "2026-10-10",
+  "coletado_em": "2026-10-11",
   "periodo": {
-    "inicio": "2026-09-10",
-    "fim": "2026-10-07",
+    "inicio": "2026-09-11",
+    "fim": "2026-10-08",
     "dias": 28
   },
   "periodo_ga4": {
-    "inicio": "2026-09-12",
-    "fim": "2026-10-09",
+    "inicio": "2026-09-13",
+    "fim": "2026-10-10",
     "dias": 28
   },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
-      "cliques": 27,
-      "impressoes": 176,
-      "ctr": 15.34,
-      "posicao_media": 18.2
+      "cliques": 28,
+      "impressoes": 191,
+      "ctr": 14.66,
+      "posicao_media": 18.4
     },
     "consultas": [
       {
@@ -95,6 +95,13 @@
         "impressoes": 1,
         "ctr": 0,
         "posicao": 68
+      },
+      {
+        "termo": "assessoria para indústria farmacêutica",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 65
       },
       {
         "termo": "consultoria de farmacia",
@@ -183,24 +190,17 @@
       {
         "termo": "farma service",
         "cliques": 0,
-        "impressoes": 21,
+        "impressoes": 24,
         "ctr": 0,
-        "posicao": 30
-      },
-      {
-        "termo": "farmaservice",
-        "cliques": 0,
-        "impressoes": 1,
-        "ctr": 0,
-        "posicao": 6
+        "posicao": 33.7
       }
     ],
     "paginas": [
       {
         "url": "https://servicefarma.far.br/",
-        "cliques": 26,
-        "impressoes": 150,
-        "posicao": 19.9
+        "cliques": 27,
+        "impressoes": 162,
+        "posicao": 20.2
       },
       {
         "url": "https://servicefarma.far.br/author/brunofalves/",
@@ -211,32 +211,32 @@
       {
         "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
         "cliques": 1,
-        "impressoes": 11,
-        "posicao": 5.2
+        "impressoes": 14,
+        "posicao": 4.3
       },
       {
         "url": "http://servicefarma.far.br/",
         "cliques": 0,
-        "impressoes": 36,
-        "posicao": 8.2
+        "impressoes": 37,
+        "posicao": 8.1
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
         "cliques": 0,
-        "impressoes": 13,
-        "posicao": 5.2
+        "impressoes": 17,
+        "posicao": 5
       },
       {
         "url": "https://servicefarma.far.br/politica-de-privacidade/",
         "cliques": 0,
-        "impressoes": 4,
-        "posicao": 1.5
+        "impressoes": 7,
+        "posicao": 2.9
       }
     ],
     "dispositivos": [
       {
         "dispositivo": "MOBILE",
-        "cliques": 14
+        "cliques": 15
       },
       {
         "dispositivo": "DESKTOP",
@@ -247,15 +247,15 @@
   "ga4": {
     "configurado": true,
     "resumo": {
-      "sessoes": 77,
-      "usuarios": 51,
-      "taxa_engajamento": 79.2,
+      "sessoes": 79,
+      "usuarios": 53,
+      "taxa_engajamento": 78.5,
       "conversoes": 27
     },
     "origem": [
       {
         "canal": "Direct",
-        "sessoes": 35,
+        "sessoes": 37,
         "conversoes": 17
       },
       {
@@ -288,7 +288,7 @@
       {
         "fonte": "(direct)",
         "midia": "(none)",
-        "sessoes": 35,
+        "sessoes": 37,
         "conversoes": 17
       },
       {
