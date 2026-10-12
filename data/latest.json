@@ -1,29 +1,29 @@
 {
-  "coletado_em": "2026-10-11",
+  "coletado_em": "2026-10-12",
   "periodo": {
-    "inicio": "2026-09-11",
-    "fim": "2026-10-08",
+    "inicio": "2026-09-12",
+    "fim": "2026-10-09",
     "dias": 28
   },
   "periodo_ga4": {
-    "inicio": "2026-09-13",
-    "fim": "2026-10-10",
+    "inicio": "2026-09-14",
+    "fim": "2026-10-11",
     "dias": 28
   },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
-      "cliques": 28,
-      "impressoes": 191,
-      "ctr": 14.66,
-      "posicao_media": 18.4
+      "cliques": 29,
+      "impressoes": 199,
+      "ctr": 14.57,
+      "posicao_media": 17.9
     },
     "consultas": [
       {
         "termo": "service farma",
-        "cliques": 17,
-        "impressoes": 22,
-        "ctr": 77.27,
+        "cliques": 18,
+        "impressoes": 23,
+        "ctr": 78.26,
         "posicao": 2.6
       },
       {
@@ -190,17 +190,17 @@
       {
         "termo": "farma service",
         "cliques": 0,
-        "impressoes": 24,
+        "impressoes": 27,
         "ctr": 0,
-        "posicao": 33.7
+        "posicao": 31.0
       }
     ],
     "paginas": [
       {
         "url": "https://servicefarma.far.br/",
-        "cliques": 27,
-        "impressoes": 162,
-        "posicao": 20.2
+        "cliques": 28,
+        "impressoes": 170,
+        "posicao": 19.5
       },
       {
         "url": "https://servicefarma.far.br/author/brunofalves/",
@@ -211,25 +211,25 @@
       {
         "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
         "cliques": 1,
-        "impressoes": 14,
-        "posicao": 4.3
+        "impressoes": 16,
+        "posicao": 4
       },
       {
         "url": "http://servicefarma.far.br/",
         "cliques": 0,
-        "impressoes": 37,
-        "posicao": 8.1
+        "impressoes": 38,
+        "posicao": 8.2
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
         "cliques": 0,
-        "impressoes": 17,
-        "posicao": 5
+        "impressoes": 19,
+        "posicao": 4.7
       },
       {
         "url": "https://servicefarma.far.br/politica-de-privacidade/",
         "cliques": 0,
-        "impressoes": 7,
+        "impressoes": 9,
         "posicao": 2.9
       }
     ],
@@ -240,22 +240,22 @@
       },
       {
         "dispositivo": "DESKTOP",
-        "cliques": 13
+        "cliques": 14
       }
     ]
   },
   "ga4": {
     "configurado": true,
     "resumo": {
-      "sessoes": 79,
-      "usuarios": 53,
-      "taxa_engajamento": 78.5,
+      "sessoes": 84,
+      "usuarios": 55,
+      "taxa_engajamento": 76.2,
       "conversoes": 27
     },
     "origem": [
       {
         "canal": "Direct",
-        "sessoes": 37,
+        "sessoes": 41,
         "conversoes": 17
       },
       {
@@ -269,14 +269,14 @@
         "conversoes": 5
       },
       {
+        "canal": "Unassigned",
+        "sessoes": 3,
+        "conversoes": 1
+      },
+      {
         "canal": "Referral",
         "sessoes": 2,
         "conversoes": 0
-      },
-      {
-        "canal": "Unassigned",
-        "sessoes": 2,
-        "conversoes": 1
       },
       {
         "canal": "AI Assistant",
@@ -288,7 +288,7 @@
       {
         "fonte": "(direct)",
         "midia": "(none)",
-        "sessoes": 37,
+        "sessoes": 41,
         "conversoes": 17
       },
       {
@@ -306,7 +306,7 @@
       {
         "fonte": "teste",
         "midia": "validacao",
-        "sessoes": 2,
+        "sessoes": 3,
         "conversoes": 1
       },
       {
