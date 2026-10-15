@@ -1,22 +1,22 @@
 {
-  "coletado_em": "2026-10-14",
+  "coletado_em": "2026-10-15",
   "periodo": {
-    "inicio": "2026-09-14",
-    "fim": "2026-10-11",
+    "inicio": "2026-09-15",
+    "fim": "2026-10-12",
     "dias": 28
   },
   "periodo_ga4": {
-    "inicio": "2026-09-16",
-    "fim": "2026-10-13",
+    "inicio": "2026-09-17",
+    "fim": "2026-10-14",
     "dias": 28
   },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
       "cliques": 29,
-      "impressoes": 215,
-      "ctr": 13.49,
-      "posicao_media": 17.2
+      "impressoes": 227,
+      "ctr": 12.78,
+      "posicao_media": 16.7
     },
     "consultas": [
       {
@@ -199,8 +199,8 @@
       {
         "url": "https://servicefarma.far.br/",
         "cliques": 28,
-        "impressoes": 182,
-        "posicao": 18.8
+        "impressoes": 190,
+        "posicao": 18.3
       },
       {
         "url": "https://servicefarma.far.br/author/brunofalves/",
@@ -211,26 +211,26 @@
       {
         "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
         "cliques": 1,
-        "impressoes": 19,
-        "posicao": 4.4
+        "impressoes": 21,
+        "posicao": 5
       },
       {
         "url": "http://servicefarma.far.br/",
         "cliques": 0,
-        "impressoes": 40,
+        "impressoes": 41,
         "posicao": 8.1
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
         "cliques": 0,
-        "impressoes": 21,
-        "posicao": 4.9
+        "impressoes": 25,
+        "posicao": 4.8
       },
       {
         "url": "https://servicefarma.far.br/politica-de-privacidade/",
         "cliques": 0,
-        "impressoes": 10,
-        "posicao": 3.7
+        "impressoes": 11,
+        "posicao": 3.5
       }
     ],
     "dispositivos": [
@@ -270,7 +270,7 @@
       },
       {
         "canal": "Unassigned",
-        "sessoes": 4,
+        "sessoes": 3,
         "conversoes": 1
       },
       {
@@ -308,12 +308,6 @@
         "midia": "validacao",
         "sessoes": 3,
         "conversoes": 1
-      },
-      {
-        "fonte": "(not set)",
-        "midia": "(not set)",
-        "sessoes": 1,
-        "conversoes": 0
       },
       {
         "fonte": "chatgpt.com",
