@@ -1,22 +1,22 @@
 {
-  "coletado_em": "2026-10-16",
+  "coletado_em": "2026-10-17",
   "periodo": {
-    "inicio": "2026-09-16",
-    "fim": "2026-10-13",
+    "inicio": "2026-09-17",
+    "fim": "2026-10-14",
     "dias": 28
   },
   "periodo_ga4": {
-    "inicio": "2026-09-18",
-    "fim": "2026-10-15",
+    "inicio": "2026-09-19",
+    "fim": "2026-10-16",
     "dias": 28
   },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
       "cliques": 30,
-      "impressoes": 245,
-      "ctr": 12.24,
-      "posicao_media": 16.1
+      "impressoes": 258,
+      "ctr": 11.63,
+      "posicao_media": 15.7
     },
     "consultas": [
       {
@@ -199,8 +199,8 @@
       {
         "url": "https://servicefarma.far.br/",
         "cliques": 29,
-        "impressoes": 203,
-        "posicao": 17.7
+        "impressoes": 213,
+        "posicao": 17.3
       },
       {
         "url": "https://servicefarma.far.br/author/brunofalves/",
@@ -211,20 +211,20 @@
       {
         "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
         "cliques": 1,
-        "impressoes": 26,
-        "posicao": 4.6
+        "impressoes": 28,
+        "posicao": 4.8
       },
       {
         "url": "http://servicefarma.far.br/",
         "cliques": 0,
-        "impressoes": 45,
+        "impressoes": 46,
         "posicao": 8.5
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
         "cliques": 0,
-        "impressoes": 28,
-        "posicao": 4.6
+        "impressoes": 29,
+        "posicao": 4.5
       },
       {
         "url": "https://servicefarma.far.br/politica-de-privacidade/",
