@@ -1,29 +1,29 @@
 {
-  "coletado_em": "2026-10-18",
+  "coletado_em": "2026-10-19",
   "periodo": {
-    "inicio": "2026-09-18",
-    "fim": "2026-10-15",
+    "inicio": "2026-09-19",
+    "fim": "2026-10-16",
     "dias": 28
   },
   "periodo_ga4": {
-    "inicio": "2026-09-20",
-    "fim": "2026-10-17",
+    "inicio": "2026-09-21",
+    "fim": "2026-10-18",
     "dias": 28
   },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
       "cliques": 32,
-      "impressoes": 272,
-      "ctr": 11.76,
-      "posicao_media": 15.4
+      "impressoes": 285,
+      "ctr": 11.23,
+      "posicao_media": 15.0
     },
     "consultas": [
       {
         "termo": "service farma",
         "cliques": 20,
-        "impressoes": 27,
-        "ctr": 74.07,
+        "impressoes": 28,
+        "ctr": 71.43,
         "posicao": 2.3
       },
       {
@@ -199,8 +199,8 @@
       {
         "url": "https://servicefarma.far.br/",
         "cliques": 31,
-        "impressoes": 221,
-        "posicao": 17.2
+        "impressoes": 227,
+        "posicao": 16.8
       },
       {
         "url": "https://servicefarma.far.br/author/brunofalves/",
@@ -211,26 +211,26 @@
       {
         "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
         "cliques": 1,
-        "impressoes": 30,
-        "posicao": 4.5
+        "impressoes": 33,
+        "posicao": 4.6
       },
       {
         "url": "http://servicefarma.far.br/",
         "cliques": 0,
-        "impressoes": 53,
-        "posicao": 7.8
+        "impressoes": 55,
+        "posicao": 7.7
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
         "cliques": 0,
-        "impressoes": 32,
-        "posicao": 4.2
+        "impressoes": 36,
+        "posicao": 4.4
       },
       {
         "url": "https://servicefarma.far.br/politica-de-privacidade/",
         "cliques": 0,
-        "impressoes": 15,
-        "posicao": 2.8
+        "impressoes": 17,
+        "posicao": 3.8
       }
     ],
     "dispositivos": [
@@ -247,15 +247,15 @@
   "ga4": {
     "configurado": true,
     "resumo": {
-      "sessoes": 92,
-      "usuarios": 63,
-      "taxa_engajamento": 73.9,
+      "sessoes": 93,
+      "usuarios": 64,
+      "taxa_engajamento": 73.1,
       "conversoes": 27
     },
     "origem": [
       {
         "canal": "Direct",
-        "sessoes": 46,
+        "sessoes": 47,
         "conversoes": 17
       },
       {
@@ -288,7 +288,7 @@
       {
         "fonte": "(direct)",
         "midia": "(none)",
-        "sessoes": 46,
+        "sessoes": 47,
         "conversoes": 17
       },
       {
