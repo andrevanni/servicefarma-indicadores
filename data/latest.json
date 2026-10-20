@@ -1,21 +1,21 @@
 {
-  "coletado_em": "2026-10-19",
+  "coletado_em": "2026-10-20",
   "periodo": {
-    "inicio": "2026-09-19",
-    "fim": "2026-10-16",
+    "inicio": "2026-09-20",
+    "fim": "2026-10-17",
     "dias": 28
   },
   "periodo_ga4": {
-    "inicio": "2026-09-21",
-    "fim": "2026-10-18",
+    "inicio": "2026-09-22",
+    "fim": "2026-10-19",
     "dias": 28
   },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
       "cliques": 32,
-      "impressoes": 285,
-      "ctr": 11.23,
+      "impressoes": 290,
+      "ctr": 11.03,
       "posicao_media": 15.0
     },
     "consultas": [
@@ -199,8 +199,8 @@
       {
         "url": "https://servicefarma.far.br/",
         "cliques": 31,
-        "impressoes": 227,
-        "posicao": 16.8
+        "impressoes": 230,
+        "posicao": 17.0
       },
       {
         "url": "https://servicefarma.far.br/author/brunofalves/",
@@ -223,14 +223,14 @@
       {
         "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
         "cliques": 0,
-        "impressoes": 36,
-        "posicao": 4.4
+        "impressoes": 38,
+        "posicao": 4.7
       },
       {
         "url": "https://servicefarma.far.br/politica-de-privacidade/",
         "cliques": 0,
-        "impressoes": 17,
-        "posicao": 3.8
+        "impressoes": 18,
+        "posicao": 4.1
       }
     ],
     "dispositivos": [
