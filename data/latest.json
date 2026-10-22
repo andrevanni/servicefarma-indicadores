@@ -1,30 +1,30 @@
 {
-  "coletado_em": "2026-10-21",
+  "coletado_em": "2026-10-22",
   "periodo": {
-    "inicio": "2026-09-21",
-    "fim": "2026-10-18",
+    "inicio": "2026-09-22",
+    "fim": "2026-10-19",
     "dias": 28
   },
   "periodo_ga4": {
-    "inicio": "2026-09-23",
-    "fim": "2026-10-20",
+    "inicio": "2026-09-24",
+    "fim": "2026-10-21",
     "dias": 28
   },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
       "cliques": 32,
-      "impressoes": 295,
-      "ctr": 10.85,
-      "posicao_media": 15.2
+      "impressoes": 309,
+      "ctr": 10.36,
+      "posicao_media": 16.2
     },
     "consultas": [
       {
         "termo": "service farma",
         "cliques": 20,
-        "impressoes": 28,
-        "ctr": 71.43,
-        "posicao": 2.3
+        "impressoes": 29,
+        "ctr": 68.97,
+        "posicao": 2.2
       },
       {
         "termo": "anb farma logo",
@@ -99,9 +99,9 @@
       {
         "termo": "assessoria para indústria farmacêutica",
         "cliques": 0,
-        "impressoes": 2,
+        "impressoes": 3,
         "ctr": 0,
-        "posicao": 64
+        "posicao": 65
       },
       {
         "termo": "calcular preço de serviços farmacêuticos",
@@ -155,9 +155,9 @@
       {
         "termo": "consultoria para indústria farmacêutica",
         "cliques": 0,
-        "impressoes": 2,
+        "impressoes": 4,
         "ctr": 0,
-        "posicao": 61.5
+        "posicao": 65.5
       },
       {
         "termo": "consultoría farma",
@@ -199,20 +199,20 @@
       {
         "url": "https://servicefarma.far.br/",
         "cliques": 31,
-        "impressoes": 234,
-        "posicao": 17.1
+        "impressoes": 246,
+        "posicao": 18.4
       },
       {
         "url": "https://servicefarma.far.br/author/brunofalves/",
         "cliques": 1,
-        "impressoes": 18,
-        "posicao": 6.1
+        "impressoes": 16,
+        "posicao": 6.7
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
         "cliques": 1,
-        "impressoes": 34,
-        "posicao": 4.7
+        "impressoes": 37,
+        "posicao": 4.4
       },
       {
         "url": "http://servicefarma.far.br/",
@@ -223,50 +223,50 @@
       {
         "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
         "cliques": 0,
-        "impressoes": 38,
-        "posicao": 4.7
+        "impressoes": 42,
+        "posicao": 4.3
       },
       {
         "url": "https://servicefarma.far.br/politica-de-privacidade/",
         "cliques": 0,
-        "impressoes": 18,
-        "posicao": 4.1
+        "impressoes": 22,
+        "posicao": 3.8
       }
     ],
     "dispositivos": [
       {
         "dispositivo": "DESKTOP",
-        "cliques": 16
+        "cliques": 17
       },
       {
         "dispositivo": "MOBILE",
-        "cliques": 16
+        "cliques": 15
       }
     ]
   },
   "ga4": {
     "configurado": true,
     "resumo": {
-      "sessoes": 98,
-      "usuarios": 68,
-      "taxa_engajamento": 71.4,
-      "conversoes": 26
+      "sessoes": 87,
+      "usuarios": 64,
+      "taxa_engajamento": 66.7,
+      "conversoes": 9
     },
     "origem": [
       {
         "canal": "Direct",
-        "sessoes": 49,
-        "conversoes": 17
+        "sessoes": 39,
+        "conversoes": 3
       },
       {
         "canal": "Organic Search",
         "sessoes": 32,
-        "conversoes": 4
+        "conversoes": 2
       },
       {
         "canal": "Organic Social",
-        "sessoes": 10,
-        "conversoes": 4
+        "sessoes": 9,
+        "conversoes": 3
       },
       {
         "canal": "Unassigned",
@@ -288,20 +288,20 @@
       {
         "fonte": "(direct)",
         "midia": "(none)",
-        "sessoes": 49,
-        "conversoes": 17
+        "sessoes": 39,
+        "conversoes": 3
       },
       {
         "fonte": "google",
         "midia": "organic",
         "sessoes": 32,
-        "conversoes": 4
+        "conversoes": 2
       },
       {
         "fonte": "linkedin.com",
         "midia": "referral",
-        "sessoes": 10,
-        "conversoes": 4
+        "sessoes": 9,
+        "conversoes": 3
       },
       {
         "fonte": "teste",
