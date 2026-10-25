@@ -1,35 +1,35 @@
 {
-  "coletado_em": "2026-10-24",
+  "coletado_em": "2026-10-25",
   "periodo": {
-    "inicio": "2026-09-24",
-    "fim": "2026-10-21",
+    "inicio": "2026-09-25",
+    "fim": "2026-10-22",
     "dias": 28
   },
   "periodo_ga4": {
-    "inicio": "2026-09-26",
-    "fim": "2026-10-23",
+    "inicio": "2026-09-27",
+    "fim": "2026-10-24",
     "dias": 28
   },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
-      "cliques": 30,
-      "impressoes": 319,
-      "ctr": 9.4,
-      "posicao_media": 16.0
+      "cliques": 27,
+      "impressoes": 320,
+      "ctr": 8.44,
+      "posicao_media": 15.9
     },
     "consultas": [
       {
         "termo": "service farma",
-        "cliques": 21,
-        "impressoes": 29,
-        "ctr": 72.41,
-        "posicao": 2.1
+        "cliques": 19,
+        "impressoes": 27,
+        "ctr": 70.37,
+        "posicao": 2.2
       },
       {
         "termo": "anb farma logo",
         "cliques": 0,
-        "impressoes": 1,
+        "impressoes": 2,
         "ctr": 0,
         "posicao": 1
       },
@@ -192,39 +192,39 @@
         "cliques": 0,
         "impressoes": 43,
         "ctr": 0,
-        "posicao": 26.7
+        "posicao": 26.0
       }
     ],
     "paginas": [
       {
         "url": "https://servicefarma.far.br/",
-        "cliques": 27,
-        "impressoes": 253,
+        "cliques": 24,
+        "impressoes": 251,
         "posicao": 18.4
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
         "cliques": 3,
-        "impressoes": 49,
+        "impressoes": 51,
         "posicao": 4.1
       },
       {
         "url": "http://servicefarma.far.br/",
         "cliques": 0,
-        "impressoes": 54,
-        "posicao": 6.8
+        "impressoes": 52,
+        "posicao": 6.5
       },
       {
         "url": "https://servicefarma.far.br/author/brunofalves/",
         "cliques": 0,
-        "impressoes": 10,
-        "posicao": 6.2
+        "impressoes": 8,
+        "posicao": 7.5
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
         "cliques": 0,
-        "impressoes": 50,
-        "posicao": 4.0
+        "impressoes": 51,
+        "posicao": 4.1
       },
       {
         "url": "https://servicefarma.far.br/politica-de-privacidade/",
@@ -236,7 +236,7 @@
     "dispositivos": [
       {
         "dispositivo": "DESKTOP",
-        "cliques": 17
+        "cliques": 14
       },
       {
         "dispositivo": "MOBILE",
@@ -248,19 +248,19 @@
     "configurado": true,
     "resumo": {
       "sessoes": 78,
-      "usuarios": 58,
-      "taxa_engajamento": 59.0,
+      "usuarios": 57,
+      "taxa_engajamento": 56.4,
       "conversoes": 2
     },
     "origem": [
       {
         "canal": "Direct",
-        "sessoes": 40,
+        "sessoes": 39,
         "conversoes": 1
       },
       {
         "canal": "Organic Search",
-        "sessoes": 25,
+        "sessoes": 26,
         "conversoes": 0
       },
       {
@@ -270,16 +270,16 @@
       },
       {
         "canal": "Unassigned",
-        "sessoes": 4,
+        "sessoes": 5,
         "conversoes": 1
       },
       {
-        "canal": "Referral",
-        "sessoes": 2,
+        "canal": "AI Assistant",
+        "sessoes": 1,
         "conversoes": 0
       },
       {
-        "canal": "AI Assistant",
+        "canal": "Referral",
         "sessoes": 1,
         "conversoes": 0
       }
@@ -288,13 +288,13 @@
       {
         "fonte": "(direct)",
         "midia": "(none)",
-        "sessoes": 40,
+        "sessoes": 39,
         "conversoes": 1
       },
       {
         "fonte": "google",
         "midia": "organic",
-        "sessoes": 25,
+        "sessoes": 26,
         "conversoes": 0
       },
       {
@@ -312,7 +312,7 @@
       {
         "fonte": "(not set)",
         "midia": "(not set)",
-        "sessoes": 1,
+        "sessoes": 2,
         "conversoes": 0
       },
       {
@@ -323,12 +323,6 @@
       },
       {
         "fonte": "linktr.ee",
-        "midia": "referral",
-        "sessoes": 1,
-        "conversoes": 0
-      },
-      {
-        "fonte": "sfsimuladormarkup.netlify.app",
         "midia": "referral",
         "sessoes": 1,
         "conversoes": 0
