@@ -1,30 +1,30 @@
 {
-  "coletado_em": "2026-10-25",
+  "coletado_em": "2026-10-26",
   "periodo": {
-    "inicio": "2026-09-25",
-    "fim": "2026-10-22",
+    "inicio": "2026-09-26",
+    "fim": "2026-10-23",
     "dias": 28
   },
   "periodo_ga4": {
-    "inicio": "2026-09-27",
-    "fim": "2026-10-24",
+    "inicio": "2026-09-28",
+    "fim": "2026-10-25",
     "dias": 28
   },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
-      "cliques": 27,
-      "impressoes": 320,
-      "ctr": 8.44,
-      "posicao_media": 15.9
+      "cliques": 23,
+      "impressoes": 316,
+      "ctr": 7.28,
+      "posicao_media": 16.2
     },
     "consultas": [
       {
         "termo": "service farma",
-        "cliques": 19,
-        "impressoes": 27,
-        "ctr": 70.37,
-        "posicao": 2.2
+        "cliques": 16,
+        "impressoes": 24,
+        "ctr": 66.67,
+        "posicao": 2.4
       },
       {
         "termo": "anb farma logo",
@@ -139,6 +139,13 @@
         "posicao": 72.5
       },
       {
+        "termo": "consultoria farmacêutica",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 66
+      },
+      {
         "termo": "consultoria para farmacia",
         "cliques": 0,
         "impressoes": 1,
@@ -186,21 +193,14 @@
         "impressoes": 4,
         "ctr": 0,
         "posicao": 13
-      },
-      {
-        "termo": "farma service",
-        "cliques": 0,
-        "impressoes": 43,
-        "ctr": 0,
-        "posicao": 26.0
       }
     ],
     "paginas": [
       {
         "url": "https://servicefarma.far.br/",
-        "cliques": 24,
-        "impressoes": 251,
-        "posicao": 18.4
+        "cliques": 20,
+        "impressoes": 247,
+        "posicao": 18.8
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
@@ -211,14 +211,14 @@
       {
         "url": "http://servicefarma.far.br/",
         "cliques": 0,
-        "impressoes": 52,
+        "impressoes": 48,
         "posicao": 6.5
       },
       {
         "url": "https://servicefarma.far.br/author/brunofalves/",
         "cliques": 0,
-        "impressoes": 8,
-        "posicao": 7.5
+        "impressoes": 4,
+        "posicao": 10
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
@@ -236,11 +236,11 @@
     "dispositivos": [
       {
         "dispositivo": "DESKTOP",
-        "cliques": 14
+        "cliques": 13
       },
       {
         "dispositivo": "MOBILE",
-        "cliques": 13
+        "cliques": 10
       }
     ]
   },
@@ -248,8 +248,8 @@
     "configurado": true,
     "resumo": {
       "sessoes": 78,
-      "usuarios": 57,
-      "taxa_engajamento": 56.4,
+      "usuarios": 58,
+      "taxa_engajamento": 55.1,
       "conversoes": 2
     },
     "origem": [
@@ -260,7 +260,7 @@
       },
       {
         "canal": "Organic Search",
-        "sessoes": 26,
+        "sessoes": 25,
         "conversoes": 0
       },
       {
@@ -270,7 +270,7 @@
       },
       {
         "canal": "Unassigned",
-        "sessoes": 5,
+        "sessoes": 6,
         "conversoes": 1
       },
       {
@@ -294,7 +294,7 @@
       {
         "fonte": "google",
         "midia": "organic",
-        "sessoes": 26,
+        "sessoes": 25,
         "conversoes": 0
       },
       {
@@ -304,16 +304,16 @@
         "conversoes": 0
       },
       {
+        "fonte": "(not set)",
+        "midia": "(not set)",
+        "sessoes": 3,
+        "conversoes": 0
+      },
+      {
         "fonte": "teste",
         "midia": "validacao",
         "sessoes": 3,
         "conversoes": 1
-      },
-      {
-        "fonte": "(not set)",
-        "midia": "(not set)",
-        "sessoes": 2,
-        "conversoes": 0
       },
       {
         "fonte": "chatgpt.com",
