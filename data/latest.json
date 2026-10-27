@@ -1,30 +1,30 @@
 {
-  "coletado_em": "2026-10-26",
+  "coletado_em": "2026-10-27",
   "periodo": {
-    "inicio": "2026-09-26",
-    "fim": "2026-10-23",
+    "inicio": "2026-09-27",
+    "fim": "2026-10-24",
     "dias": 28
   },
   "periodo_ga4": {
-    "inicio": "2026-09-28",
-    "fim": "2026-10-25",
+    "inicio": "2026-09-29",
+    "fim": "2026-10-26",
     "dias": 28
   },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
-      "cliques": 23,
+      "cliques": 24,
       "impressoes": 316,
-      "ctr": 7.28,
+      "ctr": 7.59,
       "posicao_media": 16.2
     },
     "consultas": [
       {
         "termo": "service farma",
         "cliques": 16,
-        "impressoes": 24,
-        "ctr": 66.67,
-        "posicao": 2.4
+        "impressoes": 23,
+        "ctr": 69.57,
+        "posicao": 1.0
       },
       {
         "termo": "anb farma logo",
@@ -198,32 +198,32 @@
     "paginas": [
       {
         "url": "https://servicefarma.far.br/",
-        "cliques": 20,
-        "impressoes": 247,
-        "posicao": 18.8
+        "cliques": 21,
+        "impressoes": 248,
+        "posicao": 18.9
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
         "cliques": 3,
-        "impressoes": 51,
-        "posicao": 4.1
+        "impressoes": 52,
+        "posicao": 4.0
       },
       {
         "url": "http://servicefarma.far.br/",
         "cliques": 0,
-        "impressoes": 48,
+        "impressoes": 49,
         "posicao": 6.5
       },
       {
         "url": "https://servicefarma.far.br/author/brunofalves/",
         "cliques": 0,
-        "impressoes": 4,
-        "posicao": 10
+        "impressoes": 3,
+        "posicao": 4
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
         "cliques": 0,
-        "impressoes": 51,
+        "impressoes": 52,
         "posicao": 4.1
       },
       {
@@ -240,27 +240,27 @@
       },
       {
         "dispositivo": "MOBILE",
-        "cliques": 10
+        "cliques": 11
       }
     ]
   },
   "ga4": {
     "configurado": true,
     "resumo": {
-      "sessoes": 78,
-      "usuarios": 58,
-      "taxa_engajamento": 55.1,
+      "sessoes": 75,
+      "usuarios": 56,
+      "taxa_engajamento": 52.0,
       "conversoes": 2
     },
     "origem": [
       {
         "canal": "Direct",
-        "sessoes": 39,
+        "sessoes": 36,
         "conversoes": 1
       },
       {
         "canal": "Organic Search",
-        "sessoes": 25,
+        "sessoes": 23,
         "conversoes": 0
       },
       {
@@ -275,7 +275,7 @@
       },
       {
         "canal": "AI Assistant",
-        "sessoes": 1,
+        "sessoes": 3,
         "conversoes": 0
       },
       {
@@ -288,13 +288,13 @@
       {
         "fonte": "(direct)",
         "midia": "(none)",
-        "sessoes": 39,
+        "sessoes": 36,
         "conversoes": 1
       },
       {
         "fonte": "google",
         "midia": "organic",
-        "sessoes": 25,
+        "sessoes": 23,
         "conversoes": 0
       },
       {
@@ -310,16 +310,16 @@
         "conversoes": 0
       },
       {
+        "fonte": "chatgpt.com",
+        "midia": "ai-assistant",
+        "sessoes": 3,
+        "conversoes": 0
+      },
+      {
         "fonte": "teste",
         "midia": "validacao",
         "sessoes": 3,
         "conversoes": 1
-      },
-      {
-        "fonte": "chatgpt.com",
-        "midia": "ai-assistant",
-        "sessoes": 1,
-        "conversoes": 0
       },
       {
         "fonte": "linktr.ee",
@@ -331,7 +331,7 @@
     "campanhas": [
       {
         "campanha": "(ai-assistant)",
-        "sessoes": 1,
+        "sessoes": 3,
         "conversoes": 0
       }
     ]
