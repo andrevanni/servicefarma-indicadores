@@ -1,22 +1,22 @@
 {
-  "coletado_em": "2026-10-27",
+  "coletado_em": "2026-10-28",
   "periodo": {
-    "inicio": "2026-09-27",
-    "fim": "2026-10-24",
+    "inicio": "2026-09-28",
+    "fim": "2026-10-25",
     "dias": 28
   },
   "periodo_ga4": {
-    "inicio": "2026-09-29",
-    "fim": "2026-10-26",
+    "inicio": "2026-09-30",
+    "fim": "2026-10-27",
     "dias": 28
   },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
-      "cliques": 24,
-      "impressoes": 316,
-      "ctr": 7.59,
-      "posicao_media": 16.2
+      "cliques": 23,
+      "impressoes": 311,
+      "ctr": 7.4,
+      "posicao_media": 16.3
     },
     "consultas": [
       {
@@ -99,9 +99,9 @@
       {
         "termo": "assessoria para indústria farmacêutica",
         "cliques": 0,
-        "impressoes": 3,
+        "impressoes": 4,
         "ctr": 0,
-        "posicao": 65
+        "posicao": 63.5
       },
       {
         "termo": "calcular preço de serviços farmacêuticos",
@@ -192,20 +192,20 @@
         "cliques": 0,
         "impressoes": 4,
         "ctr": 0,
-        "posicao": 13
+        "posicao": 14.2
       }
     ],
     "paginas": [
       {
         "url": "https://servicefarma.far.br/",
-        "cliques": 21,
-        "impressoes": 248,
-        "posicao": 18.9
+        "cliques": 20,
+        "impressoes": 242,
+        "posicao": 19.1
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
         "cliques": 3,
-        "impressoes": 52,
+        "impressoes": 53,
         "posicao": 4.0
       },
       {
@@ -213,12 +213,6 @@
         "cliques": 0,
         "impressoes": 49,
         "posicao": 6.5
-      },
-      {
-        "url": "https://servicefarma.far.br/author/brunofalves/",
-        "cliques": 0,
-        "impressoes": 3,
-        "posicao": 4
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
@@ -240,7 +234,7 @@
       },
       {
         "dispositivo": "MOBILE",
-        "cliques": 11
+        "cliques": 10
       }
     ]
   },
@@ -248,15 +242,15 @@
     "configurado": true,
     "resumo": {
       "sessoes": 75,
-      "usuarios": 56,
-      "taxa_engajamento": 52.0,
-      "conversoes": 2
+      "usuarios": 58,
+      "taxa_engajamento": 50.7,
+      "conversoes": 1
     },
     "origem": [
       {
         "canal": "Direct",
-        "sessoes": 36,
-        "conversoes": 1
+        "sessoes": 35,
+        "conversoes": 0
       },
       {
         "canal": "Organic Search",
@@ -264,14 +258,14 @@
         "conversoes": 0
       },
       {
+        "canal": "Unassigned",
+        "sessoes": 7,
+        "conversoes": 1
+      },
+      {
         "canal": "Organic Social",
         "sessoes": 6,
         "conversoes": 0
-      },
-      {
-        "canal": "Unassigned",
-        "sessoes": 6,
-        "conversoes": 1
       },
       {
         "canal": "AI Assistant",
@@ -280,7 +274,7 @@
       },
       {
         "canal": "Referral",
-        "sessoes": 1,
+        "sessoes": 2,
         "conversoes": 0
       }
     ],
@@ -288,8 +282,8 @@
       {
         "fonte": "(direct)",
         "midia": "(none)",
-        "sessoes": 36,
-        "conversoes": 1
+        "sessoes": 35,
+        "conversoes": 0
       },
       {
         "fonte": "google",
@@ -306,7 +300,7 @@
       {
         "fonte": "(not set)",
         "midia": "(not set)",
-        "sessoes": 3,
+        "sessoes": 4,
         "conversoes": 0
       },
       {
@@ -324,7 +318,7 @@
       {
         "fonte": "linktr.ee",
         "midia": "referral",
-        "sessoes": 1,
+        "sessoes": 2,
         "conversoes": 0
       }
     ],
