@@ -1,30 +1,30 @@
 {
-  "coletado_em": "2026-11-01",
+  "coletado_em": "2026-11-02",
   "periodo": {
-    "inicio": "2026-10-02",
-    "fim": "2026-10-29",
+    "inicio": "2026-10-03",
+    "fim": "2026-10-30",
     "dias": 28
   },
   "periodo_ga4": {
-    "inicio": "2026-10-04",
-    "fim": "2026-10-31",
+    "inicio": "2026-10-05",
+    "fim": "2026-11-01",
     "dias": 28
   },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
-      "cliques": 18,
+      "cliques": 21,
       "impressoes": 324,
-      "ctr": 5.56,
-      "posicao_media": 12.4
+      "ctr": 6.48,
+      "posicao_media": 10.1
     },
     "consultas": [
       {
         "termo": "service farma",
-        "cliques": 11,
-        "impressoes": 21,
-        "ctr": 52.38,
-        "posicao": 1.0
+        "cliques": 13,
+        "impressoes": 24,
+        "ctr": 54.17,
+        "posicao": 1.3
       },
       {
         "termo": "anb farma logo",
@@ -32,34 +32,6 @@
         "impressoes": 4,
         "ctr": 0,
         "posicao": 1
-      },
-      {
-        "termo": "asesoria farmaceutica",
-        "cliques": 0,
-        "impressoes": 1,
-        "ctr": 0,
-        "posicao": 85
-      },
-      {
-        "termo": "asesoría farmacia",
-        "cliques": 0,
-        "impressoes": 1,
-        "ctr": 0,
-        "posicao": 79
-      },
-      {
-        "termo": "asesoría fiscal farmacias",
-        "cliques": 0,
-        "impressoes": 2,
-        "ctr": 0,
-        "posicao": 80.5
-      },
-      {
-        "termo": "asesoría oficinas de farmacia",
-        "cliques": 0,
-        "impressoes": 1,
-        "ctr": 0,
-        "posicao": 72
       },
       {
         "termo": "assessoria para indústria farmacêutica",
@@ -83,20 +55,6 @@
         "posicao": 73
       },
       {
-        "termo": "consultoria farmacia",
-        "cliques": 0,
-        "impressoes": 1,
-        "ctr": 0,
-        "posicao": 86
-      },
-      {
-        "termo": "consultoria farmacias",
-        "cliques": 0,
-        "impressoes": 2,
-        "ctr": 0,
-        "posicao": 72.5
-      },
-      {
         "termo": "consultoria farmacêutica",
         "cliques": 0,
         "impressoes": 1,
@@ -113,16 +71,9 @@
       {
         "termo": "consultoría farma",
         "cliques": 0,
-        "impressoes": 2,
-        "ctr": 0,
-        "posicao": 71
-      },
-      {
-        "termo": "consultoría para farmacias",
-        "cliques": 0,
         "impressoes": 1,
         "ctr": 0,
-        "posicao": 74
+        "posicao": 64
       },
       {
         "termo": "farma consultoria",
@@ -167,6 +118,13 @@
         "posicao": 5
       },
       {
+        "termo": "proprietarios",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 1
+      },
+      {
         "termo": "serv farma",
         "cliques": 0,
         "impressoes": 3,
@@ -176,9 +134,9 @@
       {
         "termo": "serve farma",
         "cliques": 0,
-        "impressoes": 3,
+        "impressoes": 2,
         "ctr": 0,
-        "posicao": 10
+        "posicao": 11
       },
       {
         "termo": "servfarma",
@@ -193,68 +151,82 @@
         "impressoes": 1,
         "ctr": 0,
         "posicao": 1
+      },
+      {
+        "termo": "servi farma",
+        "cliques": 0,
+        "impressoes": 4,
+        "ctr": 0,
+        "posicao": 6.8
+      },
+      {
+        "termo": "service par",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 3
       }
     ],
     "paginas": [
       {
         "url": "https://servicefarma.far.br/",
-        "cliques": 15,
-        "impressoes": 244,
-        "posicao": 14.4
+        "cliques": 18,
+        "impressoes": 240,
+        "posicao": 11.5
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
         "cliques": 3,
-        "impressoes": 72,
+        "impressoes": 75,
         "posicao": 3.8
       },
       {
         "url": "http://servicefarma.far.br/",
         "cliques": 0,
-        "impressoes": 46,
+        "impressoes": 48,
         "posicao": 6.4
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
         "cliques": 0,
-        "impressoes": 66,
-        "posicao": 4.0
+        "impressoes": 70,
+        "posicao": 3.9
       },
       {
         "url": "https://servicefarma.far.br/politica-de-privacidade/",
         "cliques": 0,
-        "impressoes": 39,
-        "posicao": 3.5
+        "impressoes": 41,
+        "posicao": 3.4
       }
     ],
     "dispositivos": [
       {
         "dispositivo": "DESKTOP",
-        "cliques": 12
+        "cliques": 14
       },
       {
         "dispositivo": "MOBILE",
-        "cliques": 6
+        "cliques": 7
       }
     ]
   },
   "ga4": {
     "configurado": true,
     "resumo": {
-      "sessoes": 85,
-      "usuarios": 62,
-      "taxa_engajamento": 48.2,
+      "sessoes": 84,
+      "usuarios": 61,
+      "taxa_engajamento": 48.8,
       "conversoes": 0
     },
     "origem": [
       {
         "canal": "Direct",
-        "sessoes": 38,
+        "sessoes": 37,
         "conversoes": 0
       },
       {
         "canal": "Organic Search",
-        "sessoes": 30,
+        "sessoes": 31,
         "conversoes": 0
       },
       {
@@ -263,12 +235,12 @@
         "conversoes": 0
       },
       {
-        "canal": "Unassigned",
-        "sessoes": 5,
+        "canal": "AI Assistant",
+        "sessoes": 4,
         "conversoes": 0
       },
       {
-        "canal": "AI Assistant",
+        "canal": "Unassigned",
         "sessoes": 4,
         "conversoes": 0
       },
@@ -282,7 +254,7 @@
       {
         "fonte": "(direct)",
         "midia": "(none)",
-        "sessoes": 38,
+        "sessoes": 37,
         "conversoes": 0
       },
       {
@@ -294,7 +266,7 @@
       {
         "fonte": "bing",
         "midia": "organic",
-        "sessoes": 6,
+        "sessoes": 7,
         "conversoes": 0
       },
       {
@@ -324,7 +296,7 @@
       {
         "fonte": "teste",
         "midia": "validacao",
-        "sessoes": 2,
+        "sessoes": 1,
         "conversoes": 0
       }
     ],
