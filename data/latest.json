@@ -1,22 +1,22 @@
 {
-  "coletado_em": "2026-11-02",
+  "coletado_em": "2026-11-03",
   "periodo": {
-    "inicio": "2026-10-03",
-    "fim": "2026-10-30",
+    "inicio": "2026-10-04",
+    "fim": "2026-10-31",
     "dias": 28
   },
   "periodo_ga4": {
-    "inicio": "2026-10-05",
-    "fim": "2026-11-01",
+    "inicio": "2026-10-06",
+    "fim": "2026-11-02",
     "dias": 28
   },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
       "cliques": 21,
-      "impressoes": 324,
-      "ctr": 6.48,
-      "posicao_media": 10.1
+      "impressoes": 331,
+      "ctr": 6.34,
+      "posicao_media": 10.2
     },
     "consultas": [
       {
@@ -69,13 +69,6 @@
         "posicao": 64.7
       },
       {
-        "termo": "consultoría farma",
-        "cliques": 0,
-        "impressoes": 1,
-        "ctr": 0,
-        "posicao": 64
-      },
-      {
         "termo": "farma consultoria",
         "cliques": 0,
         "impressoes": 4,
@@ -85,9 +78,9 @@
       {
         "termo": "farma service",
         "cliques": 0,
-        "impressoes": 40,
+        "impressoes": 38,
         "ctr": 0,
-        "posicao": 20.9
+        "posicao": 21.6
       },
       {
         "termo": "farma service bv",
@@ -123,6 +116,13 @@
         "impressoes": 1,
         "ctr": 0,
         "posicao": 1
+      },
+      {
+        "termo": "se farma",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 11
       },
       {
         "termo": "serv farma",
@@ -171,13 +171,13 @@
       {
         "url": "https://servicefarma.far.br/",
         "cliques": 18,
-        "impressoes": 240,
-        "posicao": 11.5
+        "impressoes": 243,
+        "posicao": 11.7
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
         "cliques": 3,
-        "impressoes": 75,
+        "impressoes": 77,
         "posicao": 3.8
       },
       {
@@ -189,8 +189,8 @@
       {
         "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
         "cliques": 0,
-        "impressoes": 70,
-        "posicao": 3.9
+        "impressoes": 73,
+        "posicao": 4.2
       },
       {
         "url": "https://servicefarma.far.br/politica-de-privacidade/",
@@ -213,25 +213,20 @@
   "ga4": {
     "configurado": true,
     "resumo": {
-      "sessoes": 84,
-      "usuarios": 61,
-      "taxa_engajamento": 48.8,
+      "sessoes": 81,
+      "usuarios": 64,
+      "taxa_engajamento": 48.1,
       "conversoes": 0
     },
     "origem": [
       {
         "canal": "Direct",
-        "sessoes": 37,
+        "sessoes": 41,
         "conversoes": 0
       },
       {
         "canal": "Organic Search",
-        "sessoes": 31,
-        "conversoes": 0
-      },
-      {
-        "canal": "Organic Social",
-        "sessoes": 6,
+        "sessoes": 29,
         "conversoes": 0
       },
       {
@@ -248,31 +243,30 @@
         "canal": "Referral",
         "sessoes": 2,
         "conversoes": 0
+      },
+      {
+        "canal": "Organic Social",
+        "sessoes": 1,
+        "conversoes": 0
       }
     ],
     "fontes": [
       {
         "fonte": "(direct)",
         "midia": "(none)",
-        "sessoes": 37,
+        "sessoes": 41,
         "conversoes": 0
       },
       {
         "fonte": "google",
         "midia": "organic",
-        "sessoes": 24,
+        "sessoes": 22,
         "conversoes": 0
       },
       {
         "fonte": "bing",
         "midia": "organic",
         "sessoes": 7,
-        "conversoes": 0
-      },
-      {
-        "fonte": "linkedin.com",
-        "midia": "referral",
-        "sessoes": 6,
         "conversoes": 0
       },
       {
@@ -291,6 +285,12 @@
         "fonte": "linktr.ee",
         "midia": "referral",
         "sessoes": 2,
+        "conversoes": 0
+      },
+      {
+        "fonte": "linkedin.com",
+        "midia": "referral",
+        "sessoes": 1,
         "conversoes": 0
       },
       {
