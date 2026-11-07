@@ -1,29 +1,29 @@
 {
-  "coletado_em": "2026-11-06",
+  "coletado_em": "2026-11-07",
   "periodo": {
-    "inicio": "2026-10-07",
-    "fim": "2026-11-03",
+    "inicio": "2026-10-08",
+    "fim": "2026-11-04",
     "dias": 28
   },
   "periodo_ga4": {
-    "inicio": "2026-10-09",
-    "fim": "2026-11-05",
+    "inicio": "2026-10-10",
+    "fim": "2026-11-06",
     "dias": 28
   },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
-      "cliques": 18,
-      "impressoes": 331,
-      "ctr": 5.44,
-      "posicao_media": 10.2
+      "cliques": 16,
+      "impressoes": 323,
+      "ctr": 4.95,
+      "posicao_media": 10.8
     },
     "consultas": [
       {
         "termo": "service farma",
-        "cliques": 11,
-        "impressoes": 22,
-        "ctr": 50.0,
+        "cliques": 10,
+        "impressoes": 21,
+        "ctr": 47.62,
         "posicao": 1.3
       },
       {
@@ -69,11 +69,25 @@
         "posicao": 69.5
       },
       {
+        "termo": "consultorio farmaceutico",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 1
+      },
+      {
         "termo": "far",
         "cliques": 0,
         "impressoes": 1,
         "ctr": 0,
         "posicao": 1
+      },
+      {
+        "termo": "farma",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 12
       },
       {
         "termo": "farma consultoria",
@@ -85,9 +99,9 @@
       {
         "termo": "farma service",
         "cliques": 0,
-        "impressoes": 37,
+        "impressoes": 36,
         "ctr": 0,
-        "posicao": 21.6
+        "posicao": 22.9
       },
       {
         "termo": "farma service bv",
@@ -106,16 +120,16 @@
       {
         "termo": "farmaservice",
         "cliques": 0,
-        "impressoes": 3,
+        "impressoes": 2,
         "ctr": 0,
-        "posicao": 6.3
+        "posicao": 6.5
       },
       {
-        "termo": "pharma service",
+        "termo": "hos]",
         "cliques": 0,
         "impressoes": 1,
         "ctr": 0,
-        "posicao": 8
+        "posicao": 1
       },
       {
         "termo": "proprietarios",
@@ -134,23 +148,23 @@
       {
         "termo": "serv farma",
         "cliques": 0,
-        "impressoes": 2,
+        "impressoes": 1,
         "ctr": 0,
-        "posicao": 7
+        "posicao": 10
       },
       {
         "termo": "serve farma",
         "cliques": 0,
-        "impressoes": 2,
+        "impressoes": 1,
         "ctr": 0,
-        "posicao": 11
+        "posicao": 12
       },
       {
         "termo": "servfarma",
         "cliques": 0,
         "impressoes": 8,
         "ctr": 0,
-        "posicao": 5.9
+        "posicao": 11.9
       },
       {
         "termo": "servi farma",
@@ -177,33 +191,33 @@
     "paginas": [
       {
         "url": "https://servicefarma.far.br/",
-        "cliques": 15,
-        "impressoes": 244,
-        "posicao": 11.7
+        "cliques": 14,
+        "impressoes": 237,
+        "posicao": 12.3
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
-        "cliques": 3,
-        "impressoes": 71,
-        "posicao": 3.8
+        "cliques": 2,
+        "impressoes": 67,
+        "posicao": 3.7
       },
       {
         "url": "http://servicefarma.far.br/",
         "cliques": 0,
         "impressoes": 45,
-        "posicao": 6.3
+        "posicao": 7.0
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
         "cliques": 0,
         "impressoes": 70,
-        "posicao": 4.1
+        "posicao": 4.3
       },
       {
         "url": "https://servicefarma.far.br/politica-de-privacidade/",
         "cliques": 0,
-        "impressoes": 38,
-        "posicao": 3.5
+        "impressoes": 37,
+        "posicao": 3.6
       }
     ],
     "dispositivos": [
@@ -213,7 +227,7 @@
       },
       {
         "dispositivo": "MOBILE",
-        "cliques": 7
+        "cliques": 5
       }
     ]
   },
@@ -221,19 +235,19 @@
     "configurado": true,
     "resumo": {
       "sessoes": 83,
-      "usuarios": 66,
-      "taxa_engajamento": 43.4,
+      "usuarios": 65,
+      "taxa_engajamento": 42.2,
       "conversoes": 0
     },
     "origem": [
       {
         "canal": "Direct",
-        "sessoes": 46,
+        "sessoes": 47,
         "conversoes": 0
       },
       {
         "canal": "Organic Search",
-        "sessoes": 28,
+        "sessoes": 27,
         "conversoes": 0
       },
       {
@@ -261,19 +275,19 @@
       {
         "fonte": "(direct)",
         "midia": "(none)",
-        "sessoes": 46,
+        "sessoes": 47,
         "conversoes": 0
       },
       {
         "fonte": "google",
         "midia": "organic",
-        "sessoes": 19,
+        "sessoes": 17,
         "conversoes": 0
       },
       {
         "fonte": "bing",
         "midia": "organic",
-        "sessoes": 9,
+        "sessoes": 10,
         "conversoes": 0
       },
       {
