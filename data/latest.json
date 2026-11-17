@@ -1,21 +1,21 @@
 {
-  "coletado_em": "2026-11-16",
+  "coletado_em": "2026-11-17",
   "periodo": {
-    "inicio": "2026-10-17",
-    "fim": "2026-11-13",
+    "inicio": "2026-10-18",
+    "fim": "2026-11-14",
     "dias": 28
   },
   "periodo_ga4": {
-    "inicio": "2026-10-19",
-    "fim": "2026-11-15",
+    "inicio": "2026-10-20",
+    "fim": "2026-11-16",
     "dias": 28
   },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
-      "cliques": 19,
-      "impressoes": 348,
-      "ctr": 5.46,
+      "cliques": 20,
+      "impressoes": 356,
+      "ctr": 5.62,
       "posicao_media": 11.1
     },
     "consultas": [
@@ -25,6 +25,13 @@
         "impressoes": 22,
         "ctr": 45.45,
         "posicao": 1.9
+      },
+      {
+        "termo": "farma service",
+        "cliques": 1,
+        "impressoes": 23,
+        "ctr": 4.35,
+        "posicao": 20.0
       },
       {
         "termo": "anb farma",
@@ -99,9 +106,9 @@
       {
         "termo": "farma",
         "cliques": 0,
-        "impressoes": 19,
+        "impressoes": 26,
         "ctr": 0,
-        "posicao": 13.9
+        "posicao": 13.3
       },
       {
         "termo": "farma consultoria",
@@ -109,13 +116,6 @@
         "impressoes": 4,
         "ctr": 0,
         "posicao": 12.2
-      },
-      {
-        "termo": "farma service",
-        "cliques": 0,
-        "impressoes": 22,
-        "ctr": 0,
-        "posicao": 20.7
       },
       {
         "termo": "farma web",
@@ -141,9 +141,9 @@
       {
         "termo": "farna",
         "cliques": 0,
-        "impressoes": 1,
+        "impressoes": 2,
         "ctr": 0,
-        "posicao": 11
+        "posicao": 12
       },
       {
         "termo": "hos]",
@@ -162,9 +162,16 @@
       {
         "termo": "se farma",
         "cliques": 0,
+        "impressoes": 3,
+        "ctr": 0,
+        "posicao": 7.7
+      },
+      {
+        "termo": "serve farma",
+        "cliques": 0,
         "impressoes": 1,
         "ctr": 0,
-        "posicao": 11
+        "posicao": 10
       },
       {
         "termo": "servfarma",
@@ -186,21 +193,14 @@
         "impressoes": 5,
         "ctr": 0,
         "posicao": 13
-      },
-      {
-        "termo": "service par",
-        "cliques": 0,
-        "impressoes": 1,
-        "ctr": 0,
-        "posicao": 3
       }
     ],
     "paginas": [
       {
         "url": "https://servicefarma.far.br/",
-        "cliques": 14,
-        "impressoes": 259,
-        "posicao": 12.7
+        "cliques": 15,
+        "impressoes": 268,
+        "posicao": 12.4
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
@@ -211,8 +211,8 @@
       {
         "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
         "cliques": 2,
-        "impressoes": 75,
-        "posicao": 4.5
+        "impressoes": 74,
+        "posicao": 4.8
       },
       {
         "url": "http://servicefarma.far.br/",
@@ -223,14 +223,14 @@
       {
         "url": "https://servicefarma.far.br/politica-de-privacidade/",
         "cliques": 0,
-        "impressoes": 32,
-        "posicao": 2.8
+        "impressoes": 31,
+        "posicao": 2.6
       }
     ],
     "dispositivos": [
       {
         "dispositivo": "DESKTOP",
-        "cliques": 14
+        "cliques": 15
       },
       {
         "dispositivo": "MOBILE",
@@ -241,29 +241,29 @@
   "ga4": {
     "configurado": true,
     "resumo": {
-      "sessoes": 81,
-      "usuarios": 63,
-      "taxa_engajamento": 45.7,
+      "sessoes": 79,
+      "usuarios": 62,
+      "taxa_engajamento": 48.1,
       "conversoes": 0
     },
     "origem": [
       {
         "canal": "Direct",
-        "sessoes": 37,
+        "sessoes": 36,
         "conversoes": 0
       },
       {
         "canal": "Organic Search",
-        "sessoes": 34,
-        "conversoes": 0
-      },
-      {
-        "canal": "Unassigned",
-        "sessoes": 4,
+        "sessoes": 33,
         "conversoes": 0
       },
       {
         "canal": "AI Assistant",
+        "sessoes": 3,
+        "conversoes": 0
+      },
+      {
+        "canal": "Referral",
         "sessoes": 3,
         "conversoes": 0
       },
@@ -273,7 +273,7 @@
         "conversoes": 0
       },
       {
-        "canal": "Referral",
+        "canal": "Unassigned",
         "sessoes": 2,
         "conversoes": 0
       }
@@ -282,13 +282,13 @@
       {
         "fonte": "(direct)",
         "midia": "(none)",
-        "sessoes": 37,
+        "sessoes": 36,
         "conversoes": 0
       },
       {
         "fonte": "google",
         "midia": "organic",
-        "sessoes": 22,
+        "sessoes": 21,
         "conversoes": 0
       },
       {
@@ -298,15 +298,15 @@
         "conversoes": 0
       },
       {
-        "fonte": "(not set)",
-        "midia": "(not set)",
-        "sessoes": 4,
-        "conversoes": 0
-      },
-      {
         "fonte": "chatgpt.com",
         "midia": "ai-assistant",
         "sessoes": 3,
+        "conversoes": 0
+      },
+      {
+        "fonte": "(not set)",
+        "midia": "(not set)",
+        "sessoes": 2,
         "conversoes": 0
       },
       {
@@ -318,7 +318,7 @@
       {
         "fonte": "linktr.ee",
         "midia": "referral",
-        "sessoes": 1,
+        "sessoes": 2,
         "conversoes": 0
       },
       {
