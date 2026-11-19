@@ -1,30 +1,30 @@
 {
-  "coletado_em": "2026-11-18",
+  "coletado_em": "2026-11-19",
   "periodo": {
-    "inicio": "2026-10-19",
-    "fim": "2026-11-15",
+    "inicio": "2026-10-20",
+    "fim": "2026-11-16",
     "dias": 28
   },
   "periodo_ga4": {
-    "inicio": "2026-10-21",
-    "fim": "2026-11-17",
+    "inicio": "2026-10-22",
+    "fim": "2026-11-18",
     "dias": 28
   },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
       "cliques": 22,
-      "impressoes": 373,
-      "ctr": 5.9,
-      "posicao_media": 11.0
+      "impressoes": 391,
+      "ctr": 5.63,
+      "posicao_media": 10.3
     },
     "consultas": [
       {
         "termo": "service farma",
-        "cliques": 11,
-        "impressoes": 23,
-        "ctr": 47.83,
-        "posicao": 1.8
+        "cliques": 10,
+        "impressoes": 20,
+        "ctr": 50.0,
+        "posicao": 1.9
       },
       {
         "termo": "farma service",
@@ -57,9 +57,9 @@
       {
         "termo": "assessoria para indústria farmacêutica",
         "cliques": 0,
-        "impressoes": 3,
+        "impressoes": 4,
         "ctr": 0,
-        "posicao": 71
+        "posicao": 81.8
       },
       {
         "termo": "calcular preço de serviços farmacêuticos",
@@ -85,9 +85,9 @@
       {
         "termo": "consultoria para indústria farmacêutica",
         "cliques": 0,
-        "impressoes": 4,
+        "impressoes": 2,
         "ctr": 0,
-        "posicao": 54.5
+        "posicao": 39.5
       },
       {
         "termo": "consultorio farmaceutico",
@@ -120,9 +120,9 @@
       {
         "termo": "farma",
         "cliques": 0,
-        "impressoes": 34,
+        "impressoes": 48,
         "ctr": 0,
-        "posicao": 13.1
+        "posicao": 13.0
       },
       {
         "termo": "farma consultoria",
@@ -137,13 +137,6 @@
         "impressoes": 1,
         "ctr": 0,
         "posicao": 41
-      },
-      {
-        "termo": "farmacia serfarma",
-        "cliques": 0,
-        "impressoes": 2,
-        "ctr": 0,
-        "posicao": 48
       },
       {
         "termo": "farmaservice",
@@ -193,37 +186,44 @@
         "impressoes": 3,
         "ctr": 0,
         "posicao": 29
+      },
+      {
+        "termo": "servfarma serviços",
+        "cliques": 0,
+        "impressoes": 5,
+        "ctr": 0,
+        "posicao": 1.4
       }
     ],
     "paginas": [
       {
         "url": "https://servicefarma.far.br/",
         "cliques": 17,
-        "impressoes": 281,
-        "posicao": 12.2
+        "impressoes": 296,
+        "posicao": 11.3
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
         "cliques": 3,
-        "impressoes": 67,
-        "posicao": 4.1
+        "impressoes": 64,
+        "posicao": 4.2
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
         "cliques": 2,
         "impressoes": 77,
-        "posicao": 4.9
+        "posicao": 5.1
       },
       {
         "url": "http://servicefarma.far.br/",
         "cliques": 0,
-        "impressoes": 45,
-        "posicao": 8.3
+        "impressoes": 44,
+        "posicao": 8.1
       },
       {
         "url": "https://servicefarma.far.br/politica-de-privacidade/",
         "cliques": 0,
-        "impressoes": 32,
+        "impressoes": 28,
         "posicao": 2.5
       }
     ],
@@ -241,20 +241,20 @@
   "ga4": {
     "configurado": true,
     "resumo": {
-      "sessoes": 78,
-      "usuarios": 60,
-      "taxa_engajamento": 48.7,
+      "sessoes": 79,
+      "usuarios": 61,
+      "taxa_engajamento": 48.1,
       "conversoes": 0
     },
     "origem": [
       {
-        "canal": "Direct",
+        "canal": "Organic Search",
         "sessoes": 35,
         "conversoes": 0
       },
       {
-        "canal": "Organic Search",
-        "sessoes": 33,
+        "canal": "Direct",
+        "sessoes": 34,
         "conversoes": 0
       },
       {
@@ -282,13 +282,13 @@
       {
         "fonte": "(direct)",
         "midia": "(none)",
-        "sessoes": 35,
+        "sessoes": 34,
         "conversoes": 0
       },
       {
         "fonte": "google",
         "midia": "organic",
-        "sessoes": 21,
+        "sessoes": 23,
         "conversoes": 0
       },
       {
