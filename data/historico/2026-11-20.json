@@ -1,0 +1,339 @@
+{
+  "coletado_em": "2026-11-20",
+  "periodo": {
+    "inicio": "2026-10-21",
+    "fim": "2026-11-17",
+    "dias": 28
+  },
+  "periodo_ga4": {
+    "inicio": "2026-10-23",
+    "fim": "2026-11-19",
+    "dias": 28
+  },
+  "site": "sc-domain:servicefarma.far.br",
+  "search_console": {
+    "resumo": {
+      "cliques": 20,
+      "impressoes": 401,
+      "ctr": 4.99,
+      "posicao_media": 10.6
+    },
+    "consultas": [
+      {
+        "termo": "service farma",
+        "cliques": 8,
+        "impressoes": 17,
+        "ctr": 47.06,
+        "posicao": 2.1
+      },
+      {
+        "termo": "farma service",
+        "cliques": 1,
+        "impressoes": 24,
+        "ctr": 4.17,
+        "posicao": 17.0
+      },
+      {
+        "termo": "anb farma",
+        "cliques": 0,
+        "impressoes": 3,
+        "ctr": 0,
+        "posicao": 46.3
+      },
+      {
+        "termo": "anb farma logo",
+        "cliques": 0,
+        "impressoes": 3,
+        "ctr": 0,
+        "posicao": 1
+      },
+      {
+        "termo": "anbfarma",
+        "cliques": 0,
+        "impressoes": 2,
+        "ctr": 0,
+        "posicao": 69.5
+      },
+      {
+        "termo": "assessoria para indústria farmacêutica",
+        "cliques": 0,
+        "impressoes": 4,
+        "ctr": 0,
+        "posicao": 81.8
+      },
+      {
+        "termo": "calcular preço de serviços farmacêuticos",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 49
+      },
+      {
+        "termo": "consultoria farmaceutica",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 9
+      },
+      {
+        "termo": "consultoria farmacêutica",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 66
+      },
+      {
+        "termo": "consultoria para indústria farmacêutica",
+        "cliques": 0,
+        "impressoes": 2,
+        "ctr": 0,
+        "posicao": 39.5
+      },
+      {
+        "termo": "consultorio farmaceutico",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 1
+      },
+      {
+        "termo": "consultoría farma",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 65
+      },
+      {
+        "termo": "far",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 1
+      },
+      {
+        "termo": "far ma",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 9
+      },
+      {
+        "termo": "farma",
+        "cliques": 0,
+        "impressoes": 62,
+        "ctr": 0,
+        "posicao": 12.8
+      },
+      {
+        "termo": "farma +",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 13
+      },
+      {
+        "termo": "farma consultoria",
+        "cliques": 0,
+        "impressoes": 4,
+        "ctr": 0,
+        "posicao": 11.5
+      },
+      {
+        "termo": "farma web",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 41
+      },
+      {
+        "termo": "farmaservice",
+        "cliques": 0,
+        "impressoes": 4,
+        "ctr": 0,
+        "posicao": 5
+      },
+      {
+        "termo": "farna",
+        "cliques": 0,
+        "impressoes": 2,
+        "ctr": 0,
+        "posicao": 12
+      },
+      {
+        "termo": "hos]",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 1
+      },
+      {
+        "termo": "pharma gestao",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 5
+      },
+      {
+        "termo": "proprietarios",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 1
+      },
+      {
+        "termo": "se farma",
+        "cliques": 0,
+        "impressoes": 3,
+        "ctr": 0,
+        "posicao": 7.7
+      },
+      {
+        "termo": "serve farma",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 10
+      }
+    ],
+    "paginas": [
+      {
+        "url": "https://servicefarma.far.br/",
+        "cliques": 15,
+        "impressoes": 306,
+        "posicao": 11.6
+      },
+      {
+        "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
+        "cliques": 3,
+        "impressoes": 58,
+        "posicao": 4.4
+      },
+      {
+        "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
+        "cliques": 2,
+        "impressoes": 70,
+        "posicao": 5.4
+      },
+      {
+        "url": "http://servicefarma.far.br/",
+        "cliques": 0,
+        "impressoes": 44,
+        "posicao": 7.8
+      },
+      {
+        "url": "https://servicefarma.far.br/politica-de-privacidade/",
+        "cliques": 0,
+        "impressoes": 25,
+        "posicao": 2.7
+      }
+    ],
+    "dispositivos": [
+      {
+        "dispositivo": "DESKTOP",
+        "cliques": 15
+      },
+      {
+        "dispositivo": "MOBILE",
+        "cliques": 5
+      }
+    ]
+  },
+  "ga4": {
+    "configurado": true,
+    "resumo": {
+      "sessoes": 78,
+      "usuarios": 59,
+      "taxa_engajamento": 48.7,
+      "conversoes": 0
+    },
+    "origem": [
+      {
+        "canal": "Organic Search",
+        "sessoes": 36,
+        "conversoes": 0
+      },
+      {
+        "canal": "Direct",
+        "sessoes": 31,
+        "conversoes": 0
+      },
+      {
+        "canal": "AI Assistant",
+        "sessoes": 4,
+        "conversoes": 0
+      },
+      {
+        "canal": "Referral",
+        "sessoes": 4,
+        "conversoes": 0
+      },
+      {
+        "canal": "Unassigned",
+        "sessoes": 2,
+        "conversoes": 0
+      },
+      {
+        "canal": "Organic Social",
+        "sessoes": 1,
+        "conversoes": 0
+      }
+    ],
+    "fontes": [
+      {
+        "fonte": "(direct)",
+        "midia": "(none)",
+        "sessoes": 31,
+        "conversoes": 0
+      },
+      {
+        "fonte": "google",
+        "midia": "organic",
+        "sessoes": 24,
+        "conversoes": 0
+      },
+      {
+        "fonte": "bing",
+        "midia": "organic",
+        "sessoes": 12,
+        "conversoes": 0
+      },
+      {
+        "fonte": "chatgpt.com",
+        "midia": "ai-assistant",
+        "sessoes": 4,
+        "conversoes": 0
+      },
+      {
+        "fonte": "(not set)",
+        "midia": "(not set)",
+        "sessoes": 2,
+        "conversoes": 0
+      },
+      {
+        "fonte": "linktr.ee",
+        "midia": "referral",
+        "sessoes": 2,
+        "conversoes": 0
+      },
+      {
+        "fonte": "sfsimuladormarkup.netlify.app",
+        "midia": "referral",
+        "sessoes": 2,
+        "conversoes": 0
+      },
+      {
+        "fonte": "linkedin.com",
+        "midia": "referral",
+        "sessoes": 1,
+        "conversoes": 0
+      }
+    ],
+    "campanhas": [
+      {
+        "campanha": "(ai-assistant)",
+        "sessoes": 4,
+        "conversoes": 0
+      }
+    ]
+  }
+}
