@@ -1,37 +1,44 @@
 {
-  "coletado_em": "2026-11-20",
+  "coletado_em": "2026-11-21",
   "periodo": {
-    "inicio": "2026-10-21",
-    "fim": "2026-11-17",
+    "inicio": "2026-10-22",
+    "fim": "2026-11-18",
     "dias": 28
   },
   "periodo_ga4": {
-    "inicio": "2026-10-23",
-    "fim": "2026-11-19",
+    "inicio": "2026-10-24",
+    "fim": "2026-11-20",
     "dias": 28
   },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
-      "cliques": 20,
-      "impressoes": 401,
-      "ctr": 4.99,
-      "posicao_media": 10.6
+      "cliques": 21,
+      "impressoes": 425,
+      "ctr": 4.94,
+      "posicao_media": 10.5
     },
     "consultas": [
       {
         "termo": "service farma",
-        "cliques": 8,
-        "impressoes": 17,
-        "ctr": 47.06,
+        "cliques": 9,
+        "impressoes": 18,
+        "ctr": 50.0,
         "posicao": 2.1
       },
       {
         "termo": "farma service",
-        "cliques": 1,
+        "cliques": 2,
         "impressoes": 24,
-        "ctr": 4.17,
-        "posicao": 17.0
+        "ctr": 8.33,
+        "posicao": 12.3
+      },
+      {
+        "termo": "+ farma",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 12
       },
       {
         "termo": "anb farma",
@@ -120,9 +127,9 @@
       {
         "termo": "farma",
         "cliques": 0,
-        "impressoes": 62,
+        "impressoes": 79,
         "ctr": 0,
-        "posicao": 12.8
+        "posicao": 12.7
       },
       {
         "termo": "farma +",
@@ -137,6 +144,13 @@
         "impressoes": 4,
         "ctr": 0,
         "posicao": 11.5
+      },
+      {
+        "termo": "farma serve",
+        "cliques": 0,
+        "impressoes": 2,
+        "ctr": 0,
+        "posicao": 3
       },
       {
         "termo": "farma web",
@@ -179,52 +193,38 @@
         "impressoes": 1,
         "ctr": 0,
         "posicao": 1
-      },
-      {
-        "termo": "se farma",
-        "cliques": 0,
-        "impressoes": 3,
-        "ctr": 0,
-        "posicao": 7.7
-      },
-      {
-        "termo": "serve farma",
-        "cliques": 0,
-        "impressoes": 1,
-        "ctr": 0,
-        "posicao": 10
       }
     ],
     "paginas": [
       {
         "url": "https://servicefarma.far.br/",
-        "cliques": 15,
-        "impressoes": 306,
-        "posicao": 11.6
-      },
-      {
-        "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
-        "cliques": 3,
-        "impressoes": 58,
-        "posicao": 4.4
+        "cliques": 17,
+        "impressoes": 328,
+        "posicao": 11.4
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
         "cliques": 2,
-        "impressoes": 70,
+        "impressoes": 73,
         "posicao": 5.4
       },
       {
         "url": "http://servicefarma.far.br/",
-        "cliques": 0,
+        "cliques": 1,
         "impressoes": 44,
-        "posicao": 7.8
+        "posicao": 8.3
+      },
+      {
+        "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
+        "cliques": 1,
+        "impressoes": 55,
+        "posicao": 4.5
       },
       {
         "url": "https://servicefarma.far.br/politica-de-privacidade/",
         "cliques": 0,
-        "impressoes": 25,
-        "posicao": 2.7
+        "impressoes": 23,
+        "posicao": 1.7
       }
     ],
     "dispositivos": [
@@ -234,27 +234,27 @@
       },
       {
         "dispositivo": "MOBILE",
-        "cliques": 5
+        "cliques": 6
       }
     ]
   },
   "ga4": {
     "configurado": true,
     "resumo": {
-      "sessoes": 78,
-      "usuarios": 59,
-      "taxa_engajamento": 48.7,
+      "sessoes": 79,
+      "usuarios": 58,
+      "taxa_engajamento": 50.6,
       "conversoes": 0
     },
     "origem": [
       {
         "canal": "Organic Search",
-        "sessoes": 36,
+        "sessoes": 38,
         "conversoes": 0
       },
       {
         "canal": "Direct",
-        "sessoes": 31,
+        "sessoes": 30,
         "conversoes": 0
       },
       {
@@ -282,13 +282,13 @@
       {
         "fonte": "(direct)",
         "midia": "(none)",
-        "sessoes": 31,
+        "sessoes": 30,
         "conversoes": 0
       },
       {
         "fonte": "google",
         "midia": "organic",
-        "sessoes": 24,
+        "sessoes": 26,
         "conversoes": 0
       },
       {
