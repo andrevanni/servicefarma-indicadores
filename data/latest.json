@@ -1,22 +1,22 @@
 {
-  "coletado_em": "2026-11-24",
+  "coletado_em": "2026-11-25",
   "periodo": {
-    "inicio": "2026-10-25",
-    "fim": "2026-11-21",
+    "inicio": "2026-10-26",
+    "fim": "2026-11-22",
     "dias": 28
   },
   "periodo_ga4": {
-    "inicio": "2026-10-27",
-    "fim": "2026-11-23",
+    "inicio": "2026-10-28",
+    "fim": "2026-11-24",
     "dias": 28
   },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
       "cliques": 25,
-      "impressoes": 463,
-      "ctr": 5.4,
-      "posicao_media": 10.3
+      "impressoes": 478,
+      "ctr": 5.23,
+      "posicao_media": 10.4
     },
     "consultas": [
       {
@@ -29,9 +29,9 @@
       {
         "termo": "farma service",
         "cliques": 2,
-        "impressoes": 25,
-        "ctr": 8.0,
-        "posicao": 10.4
+        "impressoes": 26,
+        "ctr": 7.69,
+        "posicao": 10.5
       },
       {
         "termo": "+ farma",
@@ -66,14 +66,14 @@
         "cliques": 0,
         "impressoes": 4,
         "ctr": 0,
-        "posicao": 81.8
+        "posicao": 90.5
       },
       {
         "termo": "calcular preço de serviços farmacêuticos",
         "cliques": 0,
-        "impressoes": 1,
+        "impressoes": 2,
         "ctr": 0,
-        "posicao": 49
+        "posicao": 44
       },
       {
         "termo": "consultoria farmaceutica",
@@ -127,7 +127,7 @@
       {
         "termo": "farma",
         "cliques": 0,
-        "impressoes": 103,
+        "impressoes": 110,
         "ctr": 0,
         "posicao": 12.8
       },
@@ -141,9 +141,9 @@
       {
         "termo": "farma consultoria",
         "cliques": 0,
-        "impressoes": 5,
+        "impressoes": 6,
         "ctr": 0,
-        "posicao": 11.6
+        "posicao": 10.5
       },
       {
         "termo": "farma serve",
@@ -199,32 +199,32 @@
       {
         "url": "https://servicefarma.far.br/",
         "cliques": 18,
-        "impressoes": 359,
+        "impressoes": 371,
         "posicao": 11.2
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
         "cliques": 3,
-        "impressoes": 79,
+        "impressoes": 80,
         "posicao": 5.3
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
         "cliques": 3,
         "impressoes": 59,
-        "posicao": 4.3
+        "posicao": 4.8
       },
       {
         "url": "http://servicefarma.far.br/",
         "cliques": 1,
-        "impressoes": 47,
-        "posicao": 8.4
+        "impressoes": 48,
+        "posicao": 8.2
       },
       {
         "url": "https://servicefarma.far.br/politica-de-privacidade/",
         "cliques": 0,
-        "impressoes": 27,
-        "posicao": 1.9
+        "impressoes": 28,
+        "posicao": 2.2
       }
     ],
     "dispositivos": [
@@ -245,9 +245,9 @@
   "ga4": {
     "configurado": true,
     "resumo": {
-      "sessoes": 76,
-      "usuarios": 56,
-      "taxa_engajamento": 51.3,
+      "sessoes": 74,
+      "usuarios": 55,
+      "taxa_engajamento": 51.4,
       "conversoes": 0
     },
     "origem": [
@@ -258,12 +258,12 @@
       },
       {
         "canal": "Direct",
-        "sessoes": 30,
+        "sessoes": 29,
         "conversoes": 0
       },
       {
         "canal": "Referral",
-        "sessoes": 4,
+        "sessoes": 3,
         "conversoes": 0
       },
       {
@@ -281,7 +281,7 @@
       {
         "fonte": "(direct)",
         "midia": "(none)",
-        "sessoes": 30,
+        "sessoes": 29,
         "conversoes": 0
       },
       {
@@ -303,12 +303,6 @@
         "conversoes": 0
       },
       {
-        "fonte": "linktr.ee",
-        "midia": "referral",
-        "sessoes": 2,
-        "conversoes": 0
-      },
-      {
         "fonte": "sfsimuladormarkup.netlify.app",
         "midia": "referral",
         "sessoes": 2,
@@ -316,6 +310,12 @@
       },
       {
         "fonte": "linkedin.com",
+        "midia": "referral",
+        "sessoes": 1,
+        "conversoes": 0
+      },
+      {
+        "fonte": "linktr.ee",
         "midia": "referral",
         "sessoes": 1,
         "conversoes": 0
