@@ -1,37 +1,37 @@
 {
-  "coletado_em": "2026-11-26",
+  "coletado_em": "2026-11-27",
   "periodo": {
-    "inicio": "2026-10-27",
-    "fim": "2026-11-23",
+    "inicio": "2026-10-28",
+    "fim": "2026-11-24",
     "dias": 28
   },
   "periodo_ga4": {
-    "inicio": "2026-10-29",
-    "fim": "2026-11-25",
+    "inicio": "2026-10-30",
+    "fim": "2026-11-26",
     "dias": 28
   },
   "site": "sc-domain:servicefarma.far.br",
   "search_console": {
     "resumo": {
       "cliques": 25,
-      "impressoes": 476,
-      "ctr": 5.25,
-      "posicao_media": 10.5
+      "impressoes": 465,
+      "ctr": 5.38,
+      "posicao_media": 10.6
     },
     "consultas": [
       {
         "termo": "service farma",
         "cliques": 11,
-        "impressoes": 19,
-        "ctr": 57.89,
-        "posicao": 1.9
+        "impressoes": 18,
+        "ctr": 61.11,
+        "posicao": 2
       },
       {
         "termo": "farma service",
         "cliques": 2,
-        "impressoes": 25,
-        "ctr": 8.0,
-        "posicao": 10.1
+        "impressoes": 27,
+        "ctr": 7.41,
+        "posicao": 9.6
       },
       {
         "termo": "+ farma",
@@ -46,13 +46,6 @@
         "impressoes": 3,
         "ctr": 0,
         "posicao": 46.3
-      },
-      {
-        "termo": "anb farma logo",
-        "cliques": 0,
-        "impressoes": 2,
-        "ctr": 0,
-        "posicao": 1
       },
       {
         "termo": "anbfarma",
@@ -134,7 +127,7 @@
       {
         "termo": "farma",
         "cliques": 0,
-        "impressoes": 111,
+        "impressoes": 112,
         "ctr": 0,
         "posicao": 12.8
       },
@@ -193,37 +186,44 @@
         "impressoes": 1,
         "ctr": 0,
         "posicao": 1
+      },
+      {
+        "termo": "pharma gestao",
+        "cliques": 0,
+        "impressoes": 1,
+        "ctr": 0,
+        "posicao": 5
       }
     ],
     "paginas": [
       {
         "url": "https://servicefarma.far.br/",
         "cliques": 18,
-        "impressoes": 370,
-        "posicao": 11.3
+        "impressoes": 363,
+        "posicao": 11.4
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-compras-e-estoque/",
         "cliques": 3,
-        "impressoes": 75,
-        "posicao": 5.5
+        "impressoes": 76,
+        "posicao": 5.6
       },
       {
         "url": "https://servicefarma.far.br/gestao-de-precos-farmacia/",
         "cliques": 3,
-        "impressoes": 55,
-        "posicao": 5.0
+        "impressoes": 52,
+        "posicao": 5.1
       },
       {
         "url": "http://servicefarma.far.br/",
         "cliques": 1,
-        "impressoes": 48,
+        "impressoes": 44,
         "posicao": 8.2
       },
       {
         "url": "https://servicefarma.far.br/politica-de-privacidade/",
         "cliques": 0,
-        "impressoes": 24,
+        "impressoes": 23,
         "posicao": 2.2
       }
     ],
@@ -245,20 +245,20 @@
   "ga4": {
     "configurado": true,
     "resumo": {
-      "sessoes": 74,
-      "usuarios": 57,
-      "taxa_engajamento": 54.1,
+      "sessoes": 76,
+      "usuarios": 58,
+      "taxa_engajamento": 53.9,
       "conversoes": 0
     },
     "origem": [
       {
         "canal": "Organic Search",
-        "sessoes": 40,
+        "sessoes": 45,
         "conversoes": 0
       },
       {
         "canal": "Direct",
-        "sessoes": 28,
+        "sessoes": 26,
         "conversoes": 0
       },
       {
@@ -268,7 +268,7 @@
       },
       {
         "canal": "AI Assistant",
-        "sessoes": 2,
+        "sessoes": 1,
         "conversoes": 0
       },
       {
@@ -281,31 +281,31 @@
       {
         "fonte": "google",
         "midia": "organic",
-        "sessoes": 30,
+        "sessoes": 37,
         "conversoes": 0
       },
       {
         "fonte": "(direct)",
         "midia": "(none)",
-        "sessoes": 28,
+        "sessoes": 26,
         "conversoes": 0
       },
       {
         "fonte": "bing",
         "midia": "organic",
-        "sessoes": 10,
-        "conversoes": 0
-      },
-      {
-        "fonte": "chatgpt.com",
-        "midia": "ai-assistant",
-        "sessoes": 2,
+        "sessoes": 8,
         "conversoes": 0
       },
       {
         "fonte": "sfsimuladormarkup.netlify.app",
         "midia": "referral",
         "sessoes": 2,
+        "conversoes": 0
+      },
+      {
+        "fonte": "chatgpt.com",
+        "midia": "ai-assistant",
+        "sessoes": 1,
         "conversoes": 0
       },
       {
@@ -324,7 +324,7 @@
     "campanhas": [
       {
         "campanha": "(ai-assistant)",
-        "sessoes": 2,
+        "sessoes": 1,
         "conversoes": 0
       }
     ]
